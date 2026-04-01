@@ -13,7 +13,6 @@ The classic Team17 worm voices, dubbed in Portuguese. 33 sound clips mapped acro
 ### Session Start
 - **Olá?!** — Hello?!
 - **Sim, senhor!** — Yes, sir!
-- **Mayday, Mayday!**
 
 ### Task Acknowledge
 - **Sim, senhor!** — Yes, sir!
