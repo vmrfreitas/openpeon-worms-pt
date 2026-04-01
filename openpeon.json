@@ -24,11 +24,6 @@
           "file": "sounds/YESSIR.WAV",
           "label": "Sim, senhor!",
           "sha256": "a29f099219b5f28c6e01bfb0442a4a246659d5043fb35bb300efac5bcefb9b61"
-        },
-        {
-          "file": "sounds/ORDERS.WAV",
-          "label": "Mayday, Mayday!",
-          "sha256": "87b032f65918e2c816cc2a8e9508fe2beb9f4613f9cffd8875f0fe632f85e2bc"
         }
       ]
     },
