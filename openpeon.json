@@ -1,0 +1,223 @@
+{
+  "cesp_version": "1.0",
+  "name": "worms_pt",
+  "display_name": "Worms Armageddon (PT-BR)",
+  "version": "1.0.0",
+  "author": {
+    "name": "vmrfreitas",
+    "github": "vmrfreitas"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "pt-BR",
+  "description": "Portuguese Brazilian soundbank from Worms Armageddon",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        {
+          "file": "sounds/HELLO.WAV",
+          "label": "Ola?!",
+          "sha256": "cd6ad2a0fe814113547d691515568dea512ba303ba2a16170ed66946cb3656cd"
+        },
+        {
+          "file": "sounds/YESSIR.WAV",
+          "label": "Sim, senhor!",
+          "sha256": "a29f099219b5f28c6e01bfb0442a4a246659d5043fb35bb300efac5bcefb9b61"
+        },
+        {
+          "file": "sounds/ORDERS.WAV",
+          "label": "Mayday, Mayday!",
+          "sha256": "87b032f65918e2c816cc2a8e9508fe2beb9f4613f9cffd8875f0fe632f85e2bc"
+        }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        {
+          "file": "sounds/YESSIR.WAV",
+          "label": "Sim, senhor!",
+          "sha256": "a29f099219b5f28c6e01bfb0442a4a246659d5043fb35bb300efac5bcefb9b61"
+        },
+        {
+          "file": "sounds/WATCHTHIS.WAV",
+          "label": "Pega essa!",
+          "sha256": "92fcf84f54cabf366a0e7f0a12c130f583d972d94b8df7cde0ea0d7ec0924c73"
+        },
+        {
+          "file": "sounds/FIREBALL.WAV",
+          "label": "Atacar!",
+          "sha256": "904fb2763b4051546799ab47b2f06cda9ad56bbad77b56bc87bfec550f33f696"
+        },
+        {
+          "file": "sounds/FIRE.WAV",
+          "label": "Fogo!",
+          "sha256": "6198d8cf55951c0973efe98544dff6d351b967758528d1242de8e94bcfcaffa3"
+        }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        {
+          "file": "sounds/EXCELLENT.WAV",
+          "label": "Incrivel!",
+          "sha256": "b325fa00d0779650d207f372cb3bb11cd44249479e0e42c19ebd3ff437f97d53"
+        },
+        {
+          "file": "sounds/PERFECT.WAV",
+          "label": "Perfeito!",
+          "sha256": "c62666f99b9357e0e2c363cc10bc92bbb421d8ca5d464b98468f0b86194ad4a9"
+        },
+        {
+          "file": "sounds/AMAZING.WAV",
+          "label": "Chocante!",
+          "sha256": "f6231d11a7a92b054376e0ea0fd794aed248538683f409b7f20297e6a18aaea6"
+        },
+        {
+          "file": "sounds/FLAWLESS.WAV",
+          "label": "Sem problemas!",
+          "sha256": "d84926de7601b7a53a8b6e97cc68c7a1dac5f73d2e7076e69f87540dad7a1f8a"
+        },
+        {
+          "file": "sounds/VICTORY.WAV",
+          "label": "Oba!",
+          "sha256": "ed8e793cb9997044c638ed0a4bd76d45704a26940ed85c434db68cfe8405f24f"
+        },
+        {
+          "file": "sounds/FATALITY.WAV",
+          "label": "Consegui!",
+          "sha256": "d97def1e4fd4c9df1c7ccd5b1433eb1666bd762a73a088f47cbb97e17b3062c2"
+        },
+        {
+          "file": "sounds/BRILLIANT.WAV",
+          "label": "Eu sou demais!",
+          "sha256": "ceca17566ee701c85735fbf8a6f0c1dd93f44f373799e869b6684ac7db517e7b"
+        },
+        {
+          "file": "sounds/FIRSTBLOOD.WAV",
+          "label": "O primeiro de muitos!",
+          "sha256": "767d08ede4245f3f2094503c07c87cdb9eb3d502cf99a2df5f4860e8f485f2d9"
+        }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        {
+          "file": "sounds/NOOO.WAV",
+          "label": "Nao!",
+          "sha256": "de169f41a652d9196afcdca533eac6bee3424fac823322a2eb387635a02ef56e"
+        },
+        {
+          "file": "sounds/BUMMER.WAV",
+          "label": "Oh, nao!",
+          "sha256": "043c511b4522b8c6cf52273ec1f657f9aec54381761e50fad0d61ced966952dd"
+        },
+        {
+          "file": "sounds/OHDEAR.WAV",
+          "label": "Meu Deus!",
+          "sha256": "02efd0f4e704db23bd48fea926ee138ca5327dfc809d4cbf2d60f2a39b300c02"
+        },
+        {
+          "file": "sounds/STUPID.WAV",
+          "label": "Idiota!",
+          "sha256": "f2a7e322c4b5ff8b7bd04940d88e357d87ffe374488e452b1af4df99f2183661"
+        },
+        {
+          "file": "sounds/OOPS.WAV",
+          "label": "Opa!",
+          "sha256": "f2a3a09d47b44281cb89157d065ce60e4dc4d7f2730f398e0263c8b95f27c60a"
+        },
+        {
+          "file": "sounds/UH-OH.WAV",
+          "label": "Oh-ou",
+          "sha256": "71d9bbe6c02f1e48c4c361e0e8c2420e359f55d429c94457fec2cd924f465a9c"
+        },
+        {
+          "file": "sounds/MISSED.WAV",
+          "label": "Errou!",
+          "sha256": "781fe3eeb4af344202f914f4ca81db764645897f57fdf6079c86262ea7855d07"
+        }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        {
+          "file": "sounds/HELLO.WAV",
+          "label": "Ola?!",
+          "sha256": "cd6ad2a0fe814113547d691515568dea512ba303ba2a16170ed66946cb3656cd"
+        },
+        {
+          "file": "sounds/HURRY.WAV",
+          "label": "Depressa!",
+          "sha256": "f002639cf9efd31a953a84f3d4ca2970c7f701e0b30abcca7e2f2f62baf12fd6"
+        },
+        {
+          "file": "sounds/COMEONTHEN.WAV",
+          "label": "Depressa!",
+          "sha256": "744c16b7327a05129e3a2e5829ae5f0db7d0b7ebf9f0662311ac8924fd801ffe"
+        },
+        {
+          "file": "sounds/ORDERS.WAV",
+          "label": "Mayday, Mayday!",
+          "sha256": "87b032f65918e2c816cc2a8e9508fe2beb9f4613f9cffd8875f0fe632f85e2bc"
+        }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        {
+          "file": "sounds/BORING.WAV",
+          "label": "Que droga!",
+          "sha256": "3ec0c3ed4fc151c20a8f86c5349fd75d43ff4c9ff95237e5b8018126f4a5158f"
+        },
+        {
+          "file": "sounds/RUNAWAY.WAV",
+          "label": "Corra!",
+          "sha256": "3d7edcb381853f139d7281624aef816e57abd2aa5207d2ca12bbd9f2a81a7b3a"
+        },
+        {
+          "file": "sounds/TAKECOVER.WAV",
+          "label": "Se proteja!",
+          "sha256": "4aebb37e82617ccf788d923dc7cd4e577d1487661936c4252f7ea7f95df4e737"
+        },
+        {
+          "file": "sounds/INCOMING.WAV",
+          "label": "La vai!",
+          "sha256": "c897726b078faf17317f8dadfc862392754b6214ff2bdd51ab47f92bbef47681"
+        }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        {
+          "file": "sounds/LEAVEMEALONE.WAV",
+          "label": "Me deixe em paz!",
+          "sha256": "a7165eec404058ccec882fb69c3a2aa76e83396244a7abd394f45da424ee13ce"
+        },
+        {
+          "file": "sounds/GOAWAY.WAV",
+          "label": "Va embora!",
+          "sha256": "63b9df1623af67d3a8ca7f4e5c3b3e3d10afc0c7ced283a7c45c0526581ca75c"
+        },
+        {
+          "file": "sounds/OINUTTER.WAV",
+          "label": "Seu maluco!",
+          "sha256": "0732dd42c222d96788606aed7681388254a11555f11c2c01e402cd6147b0f07c"
+        },
+        {
+          "file": "sounds/COWARD.WAV",
+          "label": "Covarde!",
+          "sha256": "ae60baaf06802ad600bbe472492482366ff3321987d26f39f80c42eb2bb1d00a"
+        },
+        {
+          "file": "sounds/LAUGH.WAV",
+          "label": "Hahahaha!",
+          "sha256": "9437bb01d18a5420475f63add79f4004c50fa81f19275c8ece4f576963636d0e"
+        },
+        {
+          "file": "sounds/TRAITOR.WAV",
+          "label": "Mane!",
+          "sha256": "93ee6ef8235f72f333d05aa6f46ae0d27c41563c407c63ffd7161483662aa7cf"
+        }
+      ]
+    }
+  }
+}
