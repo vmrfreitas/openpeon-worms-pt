@@ -1,5 +1,7 @@
 # Worms Armageddon (PT-BR) — OpenPeon Sound Pack
 
+![worms](https://media1.tenor.com/m/YkdlYcER2vcAAAAd/worms-armageddon.gif)
+
 Brazilian Portuguese voice lines from Worms Armageddon for your coding sessions.
 
 ## About
