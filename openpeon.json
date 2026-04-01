@@ -2,7 +2,7 @@
   "cesp_version": "1.0",
   "name": "worms_pt",
   "display_name": "Worms Armageddon (PT-BR)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "vmrfreitas",
     "github": "vmrfreitas"
@@ -18,7 +18,7 @@
         {
           "file": "sounds/HELLO.WAV",
           "label": "Ola?!",
-          "sha256": "cd6ad2a0fe814113547d691515568dea512ba303ba2a16170ed66946cb3656cd"
+          "sha256": "8c93742bd5e18d73314ff59f739a6535a0a0d999925478121611135f3b439149"
         },
         {
           "file": "sounds/YESSIR.WAV",
@@ -42,7 +42,7 @@
         {
           "file": "sounds/WATCHTHIS.WAV",
           "label": "Pega essa!",
-          "sha256": "92fcf84f54cabf366a0e7f0a12c130f583d972d94b8df7cde0ea0d7ec0924c73"
+          "sha256": "8a7735d358dc9cc27de6187a94e954d9d41b7d1b4aa7b5bfb5ca405a65aa8d34"
         },
         {
           "file": "sounds/FIREBALL.WAV",
@@ -91,12 +91,12 @@
         {
           "file": "sounds/BRILLIANT.WAV",
           "label": "Eu sou demais!",
-          "sha256": "ceca17566ee701c85735fbf8a6f0c1dd93f44f373799e869b6684ac7db517e7b"
+          "sha256": "a318d70232f8fb2d65afc90c3a1823243f8b255b7b446cf00da6a335d1e013de"
         },
         {
           "file": "sounds/FIRSTBLOOD.WAV",
           "label": "O primeiro de muitos!",
-          "sha256": "767d08ede4245f3f2094503c07c87cdb9eb3d502cf99a2df5f4860e8f485f2d9"
+          "sha256": "d9889d967a2e152dd1cae502fdf12e812e0b24b219978bfe7d216ee89753d98a"
         }
       ]
     },
@@ -105,7 +105,7 @@
         {
           "file": "sounds/NOOO.WAV",
           "label": "Nao!",
-          "sha256": "de169f41a652d9196afcdca533eac6bee3424fac823322a2eb387635a02ef56e"
+          "sha256": "5e73426f5f32ea977d41f8475d42de09a89c6f4fa43f1685f7de1510ff4808df"
         },
         {
           "file": "sounds/BUMMER.WAV",
@@ -135,7 +135,7 @@
         {
           "file": "sounds/MISSED.WAV",
           "label": "Errou!",
-          "sha256": "781fe3eeb4af344202f914f4ca81db764645897f57fdf6079c86262ea7855d07"
+          "sha256": "503d9bc7acd141e7b5ef4e4bb139f733e392f32f2b10ba423283f402f8a5120a"
         }
       ]
     },
@@ -144,7 +144,7 @@
         {
           "file": "sounds/HELLO.WAV",
           "label": "Ola?!",
-          "sha256": "cd6ad2a0fe814113547d691515568dea512ba303ba2a16170ed66946cb3656cd"
+          "sha256": "8c93742bd5e18d73314ff59f739a6535a0a0d999925478121611135f3b439149"
         },
         {
           "file": "sounds/HURRY.WAV",
@@ -178,7 +178,7 @@
         {
           "file": "sounds/TAKECOVER.WAV",
           "label": "Se proteja!",
-          "sha256": "4aebb37e82617ccf788d923dc7cd4e577d1487661936c4252f7ea7f95df4e737"
+          "sha256": "a0a61d5453e5133459ab93cb33884ff0400ba46a73cba37770e9d3847dd180cd"
         },
         {
           "file": "sounds/INCOMING.WAV",
@@ -202,7 +202,7 @@
         {
           "file": "sounds/OINUTTER.WAV",
           "label": "Seu maluco!",
-          "sha256": "0732dd42c222d96788606aed7681388254a11555f11c2c01e402cd6147b0f07c"
+          "sha256": "145f15b3e0e9798c5596c31ce9a420b89aeedd4aade757a8ed7483e46446e360"
         },
         {
           "file": "sounds/COWARD.WAV",
