@@ -62,8 +62,8 @@ The classic Team17 worm voices, dubbed in Portuguese. 33 sound clips mapped acro
 ## Installation
 
 ```bash
-peon packs install worms_pt
-peon packs use worms_pt
+peon packs install worms-armageddon-ptbr
+peon packs use worms-armageddon-ptbr
 ```
 
 ## Credits
