@@ -9,7 +9,9 @@
   },
   "license": "CC-BY-NC-4.0",
   "language": "pt-BR",
-  "description": "Portuguese Brazilian soundbank from Worms Armageddon",
+  "description": "Brazilian Portuguese soundpack from Worms Armageddon.",
+  "franchise": "Worms",
+  "tags": ["gaming", "strategy", "worms", "team17", "comedy"],
   "categories": {
     "session.start": {
       "sounds": [
